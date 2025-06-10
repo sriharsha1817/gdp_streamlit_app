@@ -74,11 +74,10 @@
       ->Government Spending Impact: Analyze correlation between public expenditure and economic performance  
       ->Inflation Trends: Monitor price stability across different economies
 
-      
 
-
-
-
+  🚀 Live Demo:
+  
+        ->View Live Application : https://gdpappapp-greoby9zppmnsaojthag8v.streamlit.app/
 
 
 
