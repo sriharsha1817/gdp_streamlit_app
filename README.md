@@ -77,7 +77,7 @@
 
   🚀 Live Demo:
   
-        ->View Live Application : https://gdpappapp-greoby9zppmnsaojthag8v.streamlit.app/
+   ->View Live Application : https://gdpappapp-greoby9zppmnsaojthag8v.streamlit.app/
 
 
 
