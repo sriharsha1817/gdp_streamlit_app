@@ -21,12 +21,13 @@
     
   4.User-friendly Interface: Intuitive sidebar controls and responsive design
 
-  📁 Project Structure
-gdp_streamlit_app/
-├── app.py                 # Main Streamlit application
-├── gdp_per_capita.csv     # GDP dataset
-├── requirements.txt       # Python dependencies
-└── README.md             # Project documentation
+  📁 Project Structure:
+
+          gdp_streamlit_app/
+          ├── app.py                 # Main Streamlit application
+          ├── gdp_per_capita.csv     # GDP dataset
+          ├── requirements.txt       # Python dependencies
+          └── README.md             # Project documentation
 
 🛠️ Installation & Setup:
 
